@@ -27,6 +27,6 @@ LG CNS AM CAMP 7기 교육을 들으며 하루 동안 학습한 내용을 정리
 ```text
 TIL
 ├── 1일차 TIL
-│   ├── TIL 1일차 1강.md
-│   └── TIL 1일차 2강.md
+│   ├── 1강.md
+│   └── 2강.md
 └── README.md
