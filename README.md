@@ -53,7 +53,7 @@ LG CNS AM CAMP 7기 교육 과정에서 학습한 내용을 정리하는 저장�
 
 | 강의 | 학습 내용 |
 |---|---|
-| 5,6강 | [GIT 5,6강 TIL 보기](<./7일차 TIL>) |
+| 5,6강 | [GIT 5,6강 TIL 보기](<./7일차 TIL/README.md>) |
 ---
 
 ## 📂 Repository Structure
