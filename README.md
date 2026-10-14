@@ -60,6 +60,11 @@ LG CNS AM CAMP 7기 교육 과정에서 학습한 내용을 정리하는 저장�
 |---|---|
 | 7강 | [GIT 7강 TIL 보기](<./8일차 TIL/Git_7강/>) |
 ---
+### 📅 Day 09
+| 강의 | 학습 내용 |
+|---|---|
+| 8강 | [GIT 8강 TIL 보기](<./9일차 TIL>) |
+---
 
 ## 📂 Repository Structure
 
@@ -84,4 +89,5 @@ TIL
 │   └── Git_5강,6강
 ├── 8일차 TIL
 │   └── Git_7강
+├── 9일차 TIL
 └── README.md
