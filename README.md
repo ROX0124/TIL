@@ -80,6 +80,11 @@ LG CNS AM CAMP 7기 교육 과정에서 학습한 내용을 정리하는 저장�
 |---|---|
 | 5강 | [Java 5강 TIL 보기](<./12일차 TIL>) |
 ---
+### 📅 Day 13
+| 강의 | 학습 내용 |
+|---|---|
+| 6강 | [Java 6강 TIL 보기](<./13일차 TIL>) |
+---
 
 ## 📂 Repository Structure
 
@@ -108,4 +113,5 @@ TIL
 ├── 10일차 TIL
 ├── 11일차 TIL
 ├── 12일차 TIL
+├── 13일차 TIL
 └── README.md
