@@ -103,7 +103,7 @@ LG CNS AM CAMP 7기 교육 과정에서 학습한 내용을 정리하는 저장�
 ### 📅 Day 17
 | 강의 | 학습 내용 |
 |---|---|
-| 3강 | [React 3강 TIL 보기](<./16일차 TIL>) |
+| 4, 5강 | [React 4, 5강 TIL 보기](<./17일차 TIL>) |
 ---
 
 ## 📂 Repository Structure
