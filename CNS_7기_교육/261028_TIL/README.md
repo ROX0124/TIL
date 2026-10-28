@@ -1,4 +1,4 @@
-# [Day N] LG CNS AM Inspire Camp 7기 TIL
+# [Day 2] LG CNS AM Inspire Camp 7기 TIL
 작성일: 2026.10.28 (수) | 과목: 프론트엔드 기초
 
 ## 오늘 학습한 주제
