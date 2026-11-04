@@ -13,3 +13,5 @@
 | 10월29일 | Next.js 아토믹 디자인 및 웹페이지 구성  | [기록 보기](<./261029 TIL/README.md>) |
 | 10월30일 | Next.js / 동적 라우팅, params와 searchParams, 서버&클라이언트 컴포넌트  | [기록 보기](<./261030 TIL/README.md>) |
 | 11월02일 | Next.js 로그인 화면의 컴포넌트 설계와 서버·데이터베이스 연결 | [기록 보기](<./261102_TIL/README.md>) |
+| 11월03일 | 로그인과 회원가입, 사용자 인증 | [기록 보기](<./261103_TIL/README.md>) |
+| 11월04일 | Next.js — CSRF와 Middleware(Proxy) | [기록 보기](<./261104_TIL/README.md>) |
