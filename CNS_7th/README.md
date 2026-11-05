@@ -15,3 +15,4 @@
 | 11월02일 | Next.js 로그인 화면의 컴포넌트 설계와 서버·데이터베이스 연결 | [기록 보기](<./261102_TIL/README.md>) |
 | 11월03일 | 로그인과 회원가입, 사용자 인증 | [기록 보기](<./261103_TIL/README.md>) |
 | 11월04일 | Next.js — CSRF와 Middleware(Proxy) | [기록 보기](<./261104_TIL/README.md>) |
+| 11월05일 | Search and Filter, CRUD와 Cache | [기록 보기](<./261105_TIL/README.md>) |
