@@ -1,4 +1,4 @@
-# LG CNS AM Inspire Camp 7기 TIL
+# [Backend Day 3] LG CNS AM Inspire Camp 7기 TIL
 
 **작성일:** 2026.11.18 (수)  
 **과목:** Java / Spring Framework
