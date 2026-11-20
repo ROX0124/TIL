@@ -21,3 +21,4 @@
 | 11월17일 | Java — Array, Method Overriding, Exception Handling | [기록 보기](<./Back/261117_TIL/README.md>) |
 | 11월18일 | Java의 상속과 다형성, Spring Framework의 기본 개념 및 IoC(제어의 역전) 이해 | [기록 보기](<./Back/261118_TIL/README.md>) |
 | 11월19일 | Spring Framework와 IoC, DI(Dependency Injection) | [기록 보기](<./Back/261119_TIL/README.md>) |
+| 11월20일 | Spring Framework의 Bean 등록과 의존성 주입(DI) | [기록 보기](<./Back/261120_TIL/README.md>) |
